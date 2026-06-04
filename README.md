@@ -41,9 +41,9 @@ Key Features:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRBD17&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbd17&show_icons=true)
 
 ## Top Languages3
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRBD17&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbd17&layout=compact)
 
