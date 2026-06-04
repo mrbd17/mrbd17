@@ -1,16 +1,49 @@
 ## Hi there 👋
+# Mahmoud Rabia
 
-<!--
-**mrbd17/mrbd17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Django Developer
 
-Here are some ideas to get you started:
+Building web applications with a strong focus on backend development, APIs, databases, and scalable system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Python • Django • Django REST Framework • PostgreSQL • Redis • Docker • WebSockets • Git • Linux • JavaScript
+
+## Current Focus
+
+- Backend Engineering
+- Software Architecture
+- Testing with Pytest
+- CI/CD Pipelines
+- Distributed Systems Fundamentals
+
+## Featured Project
+
+### Food Delivery System
+
+Food ordering platform built using Django.
+
+Key Features:
+
+- User Authentication
+- Shopping Cart
+- Order Processing
+- Redis Caching
+- WebSocket Notifications
+- Docker Deployment
+
+## Currently Exploring
+
+- Advanced PostgreSQL
+- Message Queues
+- Microservices Concepts
+- System Design
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRBD17&show_icons=true)
+
+## Top Languages3
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRBD17&layout=compact)
+
